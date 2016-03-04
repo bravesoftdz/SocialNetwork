@@ -1,0 +1,29 @@
+imon@zipmagic.co | F4c3b00K for facebook
+simon@zipmagic.co | r0ckS0L1D for twitter.
+
+keith@zipmagic.co
+d0u3l35p4c3
+
++61 (02) 9475 4019
+
+'https://www.facebook.com/connect/login_success.html?post_id=135369720184889_135381016850426#_=_'
+
+kukhtinigor@zipmagic.co
+ghj123
+
+you can logon to webmail at http://webmail.mdfhosting.com
+or you can use pop3/smtp
+mail.gridhost.co.uk port 110 for pop3
+mail.gridhost.co.uk port 465, ssl/tls encryption for smtp (requires password authentication)
+
+feedform_user_message
+
+u_0_4
+
+#$FEFF'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">'#$D#$A'<!DOCTYPE html PUBLIC "" ""><HTML class="highContrastSetting 
+tinyViewport tinyWidth" '#$D#$A'id="facebook" lang="ru"><HEAD><META content="IE=10.000" '#$D#$A'http-equiv="X-UA-Compatible">'#$D#$A#$D#$A'
+<META charset="utf-8">'#$D#$A'<SCRIPT>function envFlush(a){function b(c){for(var d in a)c[d]=a[d];}if(window.requireLazy){window.requireLazy([''Env''],b);}else{window.Env=window.Env||{};b(window.Env);}}envFlush({"ajaxpipe_token":"AXhlAcYjLNZtN-6x","lhsh":"mAQGU7_KV"});</SCRIPT>'#$D#$A#$D#$A'<SCRIPT>CavalryLogger=false;</SCRIPT>'#$D#$A'<NOSCRIPT>&lt;meta http-equiv="refresh" content="0; '#$D#$A'URL=/dialog/feed?app_id=973193956103804&amp;amp;redirect_uri=https%3A%2F%2Fwww.facebook.com%2Fconnect%2Flogin_success.html&amp;amp;_fb_noscript=1" '#$D#$A'/&gt;</NOSCRIPT>'#$D#$A'<META name="application-name" content="Facebook">'#$D#$A'<META name="msapplication-tooltip" content="Посетите Facebook, чтобы оставаться на связи с друзьями">'#$D#$A'<META name="msapplication-starturl" content="/">'#$D#$A'<META name="msapplication-window" content="width=1230;height=700">'#$D#$A'<META name="msapplication-task" content="name=Новости;action-uri=/?sk=nf;icon-uri=/images/icons/app/news.ico">'#$D#$A'<META name="msapplication-task" content="name=Сообщения;action-uri=/?sk=inbox;icon-uri=/images/icons/app/messages.ico">'#$D#$A'<META name="msapplication-task" content="
+name=Мероприятия;action-uri=/?sk=events;icon-uri=/images/icons/app/events.ico">'#$D#$A'<META name="msapplication-task" content="name=
+Друзья;action-uri=/?sk=fr;icon-uri=/images/icons/app/friends.ico">'#$D#$A'<META name="msapplication-TileImage"
+content="https://static.xx.fbcdn.net/rsrc.php/v2/yk/r/t984IX-X1qt.png">'#$D#$A'<META name="msapplication-TileColor" content="#3b5998">'#$D#$A'
+<META name="referrer" id="meta_referrer" content="default"><TITLE '#$D#$A'id="pageTitle">Опубликовать на Facebook</TITLE><LINK href="htt...
